@@ -1,0 +1,384 @@
+2024-10-15 17:31:36 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 17:31:36 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:31:36 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:31:36 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:31:36 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'employeeService' via constructor to bean named 'employeeRepositoryImpl'
+2024-10-15 17:31:36 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:31:39 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:31:55 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-15 17:31:55 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:31:55 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:31:55 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:31:59 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:32:00 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 17:32:00 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-15 17:36:34 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 17:36:34 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:36:34 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:36:34 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:36:34 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'employeeService' via constructor to bean named 'employeeRepositoryImpl'
+2024-10-15 17:36:34 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:36:37 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:36:48 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-15 17:36:48 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:36:48 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:36:48 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:36:51 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:37:11 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='ashwini', age=29, contact='8464841705', gender='female'}
+2024-10-15 17:37:11 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 17:37:11 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 17:37:11 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 17:37:13 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 17:37:13 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-15 17:38:28 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 17:38:28 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-15 17:38:30 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:38:31 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 17:38:31 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ashwini', age=29, contact='8464841705', gender='female'}
+2024-10-15 17:38:52 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:38:53 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 2
+2024-10-15 17:38:53 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ashwini', age=29, contact='8464841705', gender='female'}
+2024-10-15 17:41:22 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 17:41:22 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:41:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:41:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:41:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'employeeService' via constructor to bean named 'employeeRepositoryImpl'
+2024-10-15 17:41:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:41:25 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:41:37 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-15 17:41:37 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:41:37 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:41:37 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:41:39 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:41:39 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 17:41:39 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-15 17:41:42 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:41:49 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='rr', age=33, contact='44', gender='fe'}
+2024-10-15 17:41:49 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 17:41:49 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 17:41:49 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 17:41:52 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:41:53 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 17:41:53 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='rr', age=33, contact='44', gender='fe'}
+2024-10-15 17:43:07 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 17:43:07 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:43:07 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:43:07 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:43:07 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:43:09 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:43:16 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='1', age=22, contact='34', gender='f'}
+2024-10-15 17:43:16 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:43:16 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:43:16 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:43:18 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:43:24 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='ree', age=32, contact='3456', gender='fe'}
+2024-10-15 17:43:24 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 17:43:24 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 17:43:24 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 17:43:26 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 17:43:26 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 17:43:26 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ree', age=32, contact='3456', gender='fe'}
+2024-10-15 17:45:46 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 17:45:46 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:45:46 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:45:46 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:45:46 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:45:50 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:45:56 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='334', gender='fe'}
+2024-10-15 17:45:56 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:45:56 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:45:56 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:46:01 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:46:08 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='rrr', age=43, contact='324', gender='ee'}
+2024-10-15 17:46:08 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 17:46:08 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 17:46:08 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 17:46:11 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 17:46:11 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-15 17:47:16 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58cbafc2
+2024-10-15 17:47:16 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:47:16 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:47:16 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:47:16 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:47:19 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:47:25 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34', gender='fe'}
+2024-10-15 17:47:25 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:47:25 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:47:25 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:47:26 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:47:32 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='eee', age=22, contact='345', gender='de'}
+2024-10-15 17:47:32 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 17:47:32 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 17:47:32 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 17:47:35 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 17:47:35 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-15 17:48:02 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58cbafc2
+2024-10-15 17:48:02 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 17:48:02 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 17:48:02 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepositoryImpl'
+2024-10-15 17:48:02 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 17:48:11 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:48:20 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34567', gender='female'}
+2024-10-15 17:48:28 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 17:48:34 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 17:48:36 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 17:49:10 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 17:49:19 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='reddy', age=22, contact='5677', gender='female'}
+2024-10-15 18:01:22 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 18:01:22 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 18:01:22 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 18:01:26 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 18:01:26 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 18:01:26 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-15 18:01:26 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 18:01:26 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 18:01:29 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:01:35 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34', gender='f'}
+2024-10-15 18:01:35 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 18:01:35 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 18:01:35 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 18:01:43 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:01:48 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=1, name='ee', age=22, contact='34', gender='ee'}
+2024-10-15 18:01:48 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 18:01:48 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 18:01:48 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 18:01:51 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 18:01:51 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 18:01:51 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ee', age=22, contact='34', gender='ee'}
+2024-10-15 18:02:20 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 18:02:20 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 18:02:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-15 18:02:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 18:02:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'emp'
+2024-10-15 18:02:22 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:02:29 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='234', gender='fe'}
+2024-10-15 18:02:29 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 18:02:29 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 18:02:29 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 18:02:30 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 18:02:33 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 18:02:33 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='234', gender='fe'}
+2024-10-15 18:02:36 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:02:42 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='ree', age=22, contact='345', gender='fe'}
+2024-10-15 18:02:42 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 18:02:42 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 18:02:42 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 18:02:43 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 18:02:44 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 18:02:44 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='234', gender='fe'}
+2024-10-15 18:02:46 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 18:02:46 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-15 18:03:50 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-15 18:03:50 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-15 18:03:50 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-15 18:03:50 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-15 18:03:52 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:04:02 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34567', gender='female'}
+2024-10-15 18:04:02 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-15 18:04:02 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-15 18:04:02 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-15 18:04:04 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-15 18:04:12 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='reddy', age=3, contact='3456', gender='female'}
+2024-10-15 18:04:12 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-15 18:04:12 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-15 18:04:12 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-15 18:04:13 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-15 18:04:13 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-15 18:04:13 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='34567', gender='female'}
+2024-10-15 18:04:17 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-15 18:04:17 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:40:06 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:40:07 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:40:07 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:40:07 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:40:09 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:40:20 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-16 06:40:20 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:40:20 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:40:20 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:40:22 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:40:34 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa reddy', age=23, contact='7075072569', gender='female'}
+2024-10-16 06:40:34 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-16 06:40:34 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-16 06:40:34 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-16 06:40:36 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-16 06:40:37 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 2
+2024-10-16 06:40:37 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='roopa reddy', age=23, contact='7075072569', gender='female'}
+2024-10-16 06:40:40 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:40:40 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:40:47 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage5
+2024-10-16 06:40:48 [main] INFO  com.wavemaker.employee.controller.Main - Deleting employee with ID: 2
+2024-10-16 06:40:48 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 deleted successfully.
+2024-10-16 06:40:51 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:40:51 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:47:50 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:47:50 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:47:50 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:47:50 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:47:52 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:47:59 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='56789', gender='female'}
+2024-10-16 06:47:59 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:47:59 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:47:59 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:48:03 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage5
+2024-10-16 06:48:04 [main] INFO  com.wavemaker.employee.controller.Main - Deleting employee with ID: 2
+2024-10-16 06:48:04 [main] ERROR com.wavemaker.employee.controller.Main - Employee with ID 2 not found.
+2024-10-16 06:48:32 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:48:32 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:48:35 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:48:47 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='ashu', age=29, contact='8464841705', gender='female'}
+2024-10-16 06:48:47 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-16 06:48:47 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-16 06:48:47 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-16 06:48:48 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:48:48 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:48:56 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:48:57 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 3
+2024-10-16 06:48:57 [main] ERROR com.wavemaker.employee.controller.Main - Employee with ID 3 not found.
+2024-10-16 06:48:57 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: null
+2024-10-16 06:49:18 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:49:18 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:49:19 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:49:19 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:49:40 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:49:40 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:49:40 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:49:40 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:49:43 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:49:45 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 2
+2024-10-16 06:49:45 [main] ERROR com.wavemaker.employee.controller.Main - Employee with ID 2 not found.
+2024-10-16 06:49:45 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: null
+2024-10-16 06:50:03 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:50:09 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='456', gender='fe'}
+2024-10-16 06:50:09 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:50:09 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:50:09 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:50:11 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:50:18 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='ashu', age=24, contact='45678', gender='fe'}
+2024-10-16 06:50:18 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-16 06:50:18 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-16 06:50:18 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-16 06:50:20 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:50:20 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:50:24 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:50:25 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 2
+2024-10-16 06:50:25 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ashu', age=24, contact='45678', gender='fe'}
+2024-10-16 06:50:56 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:50:56 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:50:56 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:50:56 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:50:58 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:51:03 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34', gender='fe'}
+2024-10-16 06:51:03 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:51:03 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:51:03 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:51:05 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:51:08 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:51:08 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='34', gender='fe'}
+2024-10-16 06:51:15 [main] INFO  com.wavemaker.employee.controller.Main - Updating employee with ID: 1
+2024-10-16 06:51:15 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 updated successfully.
+2024-10-16 06:51:17 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:51:17 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:52:22 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:52:35 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='ashu', age=22, contact='444', gender='female'}
+2024-10-16 06:52:35 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-16 06:52:35 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-16 06:52:35 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-16 06:52:36 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:52:36 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:52:46 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:52:50 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:52:50 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='', age=22, contact='4566', gender='fe'}
+2024-10-16 06:53:28 [main] INFO  com.wavemaker.employee.controller.Main - Updating employee with ID: 1
+2024-10-16 06:53:28 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 updated successfully.
+2024-10-16 06:53:30 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:53:30 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:53:34 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:53:36 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:53:36 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='', age=33, contact='444', gender='fee'}
+2024-10-16 06:54:20 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:54:20 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:54:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:54:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:54:23 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:54:30 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='34455', gender='fe'}
+2024-10-16 06:54:30 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:54:30 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:54:30 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:54:31 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 06:54:31 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 06:54:33 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:54:35 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:54:35 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='34455', gender='fe'}
+2024-10-16 06:57:51 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:57:52 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:57:52 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:57:52 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:57:55 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:58:04 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='3566', gender='female'}
+2024-10-16 06:58:04 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:58:04 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:58:04 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:58:07 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:58:09 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:58:09 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='3566', gender='female'}
+2024-10-16 06:58:16 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 06:58:16 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:58:16 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:58:16 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:58:22 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58cbafc2
+2024-10-16 06:58:22 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 06:58:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 06:58:22 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 06:58:25 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 06:58:31 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='3455', gender='fee'}
+2024-10-16 06:58:35 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 06:58:35 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 06:58:37 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 06:59:03 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 06:59:16 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 06:59:16 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='3455', gender='fee'}
+2024-10-16 07:04:01 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 07:04:01 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 07:04:01 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 07:04:01 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 07:04:02 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 07:04:10 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='2344', gender='female'}
+2024-10-16 07:04:10 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 07:04:10 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 07:04:10 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 07:04:13 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 07:04:16 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 07:04:16 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='2344', gender='female'}
+2024-10-16 07:04:27 [main] INFO  com.wavemaker.employee.controller.Main - Updating employee with ID: 1
+2024-10-16 07:04:27 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 updated successfully.
+2024-10-16 07:05:20 [main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ed4ae0f
+2024-10-16 07:05:20 [main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 3 bean definitions from class path resource [configmetadata.xml]
+2024-10-16 07:05:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeRepository'
+2024-10-16 07:05:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'employeeService'
+2024-10-16 07:05:20 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'employeeService' via constructor to bean named 'employeeRepository'
+2024-10-16 07:05:24 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 07:05:34 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-16 07:05:34 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 1
+2024-10-16 07:05:34 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 1
+2024-10-16 07:05:34 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 added successfully.
+2024-10-16 07:05:36 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage1
+2024-10-16 07:05:43 [main] INFO  com.wavemaker.employee.controller.Main - Adding new employee: Employee{empId=0, name='ashu', age=23, contact='789', gender='female'}
+2024-10-16 07:05:43 [main] DEBUG com.wavemaker.employee.controller.Main - Generated new employee ID: 2
+2024-10-16 07:05:43 [main] INFO  com.wavemaker.employee.controller.Main - Adding employee with ID: 2
+2024-10-16 07:05:43 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 added successfully.
+2024-10-16 07:05:45 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 07:05:45 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 07:05:50 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage2
+2024-10-16 07:05:51 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 2
+2024-10-16 07:05:51 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=2, name='ashu', age=23, contact='789', gender='female'}
+2024-10-16 07:05:56 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage5
+2024-10-16 07:05:57 [main] INFO  com.wavemaker.employee.controller.Main - Deleting employee with ID: 2
+2024-10-16 07:05:57 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 2 deleted successfully.
+2024-10-16 07:05:59 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage3
+2024-10-16 07:05:59 [main] INFO  com.wavemaker.employee.controller.Main - Fetching all employees.
+2024-10-16 07:06:02 [main] INFO  com.wavemaker.employee.controller.Main - user enter the choice for  storage4
+2024-10-16 07:06:04 [main] INFO  com.wavemaker.employee.controller.Main - Fetching employee with ID: 1
+2024-10-16 07:06:04 [main] INFO  com.wavemaker.employee.controller.Main - Employee found: Employee{empId=1, name='roopa', age=22, contact='7075072569', gender='female'}
+2024-10-16 07:06:13 [main] INFO  com.wavemaker.employee.controller.Main - Updating employee with ID: 1
+2024-10-16 07:06:13 [main] INFO  com.wavemaker.employee.controller.Main - Employee with ID 1 updated successfully.
